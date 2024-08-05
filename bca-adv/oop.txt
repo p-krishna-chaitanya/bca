@@ -23,6 +23,8 @@ example:  class
 
    - abstraction:Hiding the backgroud details
         ex: abstract class,interface
+tduyghbliufytsdyugbiufyrdytuygbnljbuiydt6rs67fugiy
+asdfghjkwertyuioxcvbnm,
 
 
 
