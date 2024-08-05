@@ -1,0 +1,39 @@
+Object Oriented Programming:
+   - class-logical representation of object
+             or
+           class is a user defined data type contains variables and methods
+   - Object-physical representation of class
+           - object is a real time entity
+           - object is run time entity
+       ex:pen,car,chair etc
+   - Encapsulation-binding different data type into a single block
+  def: wrapping up of data and functions into a single block called "Encapsulation".
+example:  class
+   - Inheritance:code reusability
+     def:accessing variables and methods from one class to another class without re-declaration
+
+        or
+ Aquiring the properties of one class into another class
+
+   - Polymorphism-poly=many
+                  morphic=forms
+
+
+      ex:Method Overloading
+
+   - abstraction:Hiding the backgroud details
+        ex: abstract class,interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+

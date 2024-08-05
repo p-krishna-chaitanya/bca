@@ -1,0 +1,25 @@
+History of java:
+  1990s-sun micro systems
+        - operate electronic devices using remote
+        - assigned this project to Green team
+        - James Gosling(team leader)
+        - C and C++
+        -Drawback of C and C++:Platform dependent
+        - Green Project
+        - OAK(tree-symbol of streanth) 
+        - java-iland in indonesia-tea leaves(1995)
+        - First version (1.0)released in 26-01-1996
+
+Features of java:
+       
+      - platform independent(Write once run anywhere)
+      - pure object orinted programming language  (class,object,encapsulation,inheritance)
+      - portable(gives same result in all the systems)
+      - Robust(Strong-u cont change the code)
+      - Distributed
+      - multi threaded
+
+
+Object Oriented Programming:
+
+
